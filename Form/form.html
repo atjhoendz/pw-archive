@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Orbitron:400,700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <div class="container card">
+        <h1 class="judul">Form Register</h1>
+        <form method="POST">
+            <div class="form-group">
+                <input type="text" name="firstname" placeholder="First Name" required>
+            </div>
+            <div class="form-group">
+                <input type="text" name="lastname" placeholder="Last Name" required>
+            </div>
+            <div class="form-group">
+                <input type="email" name="email" placeholder="Email" required>
+            </div>
+            <div class="form-group">
+                <input type="tel" name="phone" placeholder="Phone Number" required>
+            </div>
+            <div class="form-group">
+                <input type="password" name="password" placeholder="Password" required>
+                <input type="password" name="conf_password" placeholder="Confirm Password" required>
+            </div>
+            <div class="form-radio">
+                <label class="label">Gender</label>
+                <div class="radio">
+                        <label><input type="radio" name="gender" checked>Male</label>
+                        <label><input type="radio" name="gender">Femal</label>
+                        <label><input type="radio" name="gender">Other</label>
+                </div>
+            </div>
+            <div>
+                <input type="submit" name="submit">
+            </div>
+        </form>
+        <div>
+            <h6>&copy Mohamad Achun Armando (140810170020) | Pemrograman Web 2018</h6>
+        </div>
+    </div>
+</body>
+</html>
