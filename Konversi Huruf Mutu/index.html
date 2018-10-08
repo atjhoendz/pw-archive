@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+     <head>
+          <meta charset="utf-8" />
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <title>Form</title>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron:400,700">
+          <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+          <link rel="stylesheet" href="css/style.css" type="text/css">
+     </head>
+     <body>
+          <div class="container">
+               <div class="row card header">
+                    <h1 class="text-center">Program Konversi Huruf Mutu</h1>
+               </div>
+               <div class="row">
+                    <div class="col-sm-6 card">
+                         <h4 class="text-center">Input Nilai</h4>
+                         <form class="form" name="formInput" onsubmit="setHasil(); return false;">
+                              <input type="text" name="angka" placeholder="Masukan Nilai">
+                              <input class="btn" type="submit" value="Konversi">
+                         </form>
+                    </div>
+                    <div class="col-sm-6 card">
+                         <h4 class="text-center">Huruf Mutu</h4>
+                         <h5 id="hasil" class="text-center"></h5>
+                    </div>
+               </div>
+               <footer class="row card text-center">
+                    <span>&copy Mohamad Achun Armando (140810170020) | Pemrograman Web 2018</span>
+               </footer>
+          </div>
+     </body>
+     <script type="text/javascript">
+          function Konversi() {
+               var angka = document.forms["formInput"]["angka"].value;
+               if(angka >= 0 && angka <= 40){
+                    return 'E';
+               }else if(angka > 40 && angka <= 55){
+                    return 'D';
+               }else if(angka > 55 && angka <= 60){
+                    return 'C';
+               }else if (angka > 60 && angka <= 65) {
+                    return 'BC';
+               }else if (angka > 65 && angka <= 70) {
+                    return 'B';
+               }else if (angka > 70 && angka <= 80) {
+                    return 'AB';
+               }else if (angka > 80 && angka <= 100) {
+                    return 'A';
+               }else if (angka < 0 || angka > 100) {
+                    return "Out Of Range";
+               }
+          }
+          function setHasil() {
+               var hasil = document.getElementById("hasil");
+               hasil.innerHTML=Konversi();
+          }
+     </script>
+</html>
