@@ -13,3 +13,9 @@
 
 # 4. Konversi Huruf Mutu
 ![konvert](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Konversi%20Huruf%20Mutu/screenshot/konversi.png)
+
+# 5. Web Input Data Diri
+![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/1.png)
+![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/2.png)
+![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/3.png)
+![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/4.png)
