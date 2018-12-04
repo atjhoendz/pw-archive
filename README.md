@@ -19,3 +19,11 @@
 ![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/2.png)
 ![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/3.png)
 ![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/4.png)
+
+# 6. Kuis 2
+![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/1.png)
+![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/2.png)
+![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/3.png)
+![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/4.png)
+![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/5.png)
+![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/6.png)
