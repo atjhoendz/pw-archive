@@ -14,13 +14,17 @@
 # 4. Konversi Huruf Mutu
 ![konvert](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Konversi%20Huruf%20Mutu/screenshot/konversi.png)
 
-# 5. Web Input Data Diri
+# 5. Kalkulator
+![kalkulator](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kalkulator/screenshot/1.png)
+![kalkulator](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kalkulator/screenshot/2.png)
+
+# 6. Form Input Data Diri (Kelompok)
 ![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/1.png)
 ![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/2.png)
 ![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/3.png)
 ![inputdatadiri](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Web_InputDataDiri/screenshot/4.png)
 
-# 6. Kuis 2
+# 7. Kuis 2
 ![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/1.png)
 ![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/2.png)
 ![ss_kuis2](https://raw.githubusercontent.com/atjhoendz/pw-archive/master/Kuis2_140810170020/screenshot/3.png)
